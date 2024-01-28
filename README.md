@@ -1,6 +1,6 @@
 MVC Project 
 
-to active EF database"
+to active EF database
 
 VisualStudio NuGet commandline:
 
